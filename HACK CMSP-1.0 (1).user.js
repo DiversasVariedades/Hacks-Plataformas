@@ -5,7 +5,7 @@
 // @description  Hack CMSP
 // @connect      cmsp.ip.tv
 // @connect      edusp-api.ip.tv
-// @author       Diversas Variedades
+// @author       marcospc10
 // @match        https://cmsp.ip.tv/*
 // @icon         https://edusp-static.ip.tv/permanent/66aa8b3a1454f7f2b47e21a3/full.x-icon
 // @license      GNU Affero General Public License v3.0
